@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/restll-010/mitres_tll_010.jpg
+file: /ol-ocw-studio-app/courses/res-tll-010-syllabus-checklist-to-support-student-belonging-achievement-spring-2025/mitres_tll_010.jpg
 file_size: 74044
 file_type: image/jpeg
 image_metadata:
