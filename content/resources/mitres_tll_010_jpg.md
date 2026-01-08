@@ -7,8 +7,8 @@ file_size: 74044
 file_type: image/jpeg
 image_metadata:
   caption: Rows of books at the Suzzallo and Allen Libraries at the University of
-    Washington in Seattle (Image by {{% resource_link "d189ba9c-ddea-4623-abb0-6bac9b3fcd21"
-    "Beth Justino" %}} on Flickr. License CC BY-NC).
+    Washington in Seattle (Image by [Beth Justino](https://www.flickr.com/photos/zenobia_joy/5393914694/)
+    on Flickr. License CC BY-NC).
   credit: Image by Beth Justino on Flickr. License CC BY-NC.
   image-alt: A library aisle with shelves full of assorted books on both sides.
 learning_resource_types: []
@@ -27,4 +27,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-Rows of books at a library in the University District of Seattle, WA.  (Image by {{% resource_link "d189ba9c-ddea-4623-abb0-6bac9b3fcd21" "Beth Justino" %}} on Flickr. License: CC BY-NC).
+Rows of books at a library in the University District of Seattle, WA.  (Image by [Beth Justino](https://www.flickr.com/photos/zenobia_joy/5393914694/) on Flickr. License: CC BY-NC).
